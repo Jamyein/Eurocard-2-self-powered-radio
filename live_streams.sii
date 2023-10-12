@@ -1,0 +1,21 @@
+SiiNunit
+{
+live_stream_def : _nameless.1FDE.8F10 {
+ stream_data: 11
+ stream_data[0]: "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_43_audio.m3u8|佛山电台883|Sim radio|CN|128|0"
+ stream_data[1]: "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_44_audio.m3u8|佛山电台901|Sim radio|CN|128|0"
+ stream_data[2]: "https://lhttp.qingting.fm/live/1260/64k.mp3|广东音乐之声|Sim radio|CN|128|0"
+ stream_data[3]: "https://lhttp.qingting.fm/live/471/64k.mp3|广东文体广播|Sim radio|CN|128|0"
+ stream_data[4]: "https://lhttp.qingting.fm/live/469/64k.mp3|广东城市之声|Sim radio|CN|128|0"
+ stream_data[5]: "https://lhttp.qingting.fm/live/1262/64k.mp3|羊城交通台|Sim radio|CN|128|0"
+ stream_data[6]: "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_46_audio.m3u8|佛山电台真爱946|Sim radio|CN|128|0"
+ stream_data[7]: "https://lhttp.qingting.fm/live/4955/64k.mp3|广州交通广播|Sim radio|CN|128|0"
+ stream_data[8]: "https://lhttp.qingting.fm/live/1278/64k.mp3|中山电台快乐888|Sim radio|CN|128|0"
+ stream_data[9]: "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_42_audio.m3u8|佛山电台飞跃924|Sim radio|CN|128|0"
+ stream_data[10]: "https://radiopull.radiofoshan.com.cn/live/1400389414_BSID_41_audio.m3u8|佛山电台千色985|Sim radio|CN|128|0"
+ stream_data[11]: "http://lhttp.qingting.fm/live/1264/64k.mp3|佛山电台FM906|Sim radio|CN|128|0"
+
+
+}
+
+}
